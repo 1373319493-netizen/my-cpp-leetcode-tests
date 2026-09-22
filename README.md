@@ -36,8 +36,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0191-number-of-1-bits/) | Easy |
+| [0190-reverse-bits](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0190-reverse-bits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0191-number-of-1-bits/) | Easy |
+| [0190-reverse-bits](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
