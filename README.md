@@ -5,6 +5,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0011-container-with-most-water/) | Medium |
+| [0136-single-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0136-single-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@
 | [0191-number-of-1-bits](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0191-number-of-1-bits/) | Easy |
 | [0190-reverse-bits](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0231-power-of-two/) | Easy |
+| [0136-single-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0136-single-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
