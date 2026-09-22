@@ -32,4 +32,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0011-container-with-most-water/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0191-number-of-1-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
