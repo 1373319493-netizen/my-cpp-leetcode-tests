@@ -4,6 +4,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0011-container-with-most-water/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,4 +24,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
