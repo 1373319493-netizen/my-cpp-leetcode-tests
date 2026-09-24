@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0011-container-with-most-water/) | Medium |
 | [0136-single-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0136-single-number/) | Easy |
+| [0042-trapping-rain-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0042-trapping-rain-water/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0042-trapping-rain-water/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +52,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0231-power-of-two/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0042-trapping-rain-water/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
