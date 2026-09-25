@@ -52,6 +52,7 @@
 | [0231-power-of-two](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0231-power-of-two/) | Easy |
 | [0136-single-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0136-single-number/) | Easy |
 | [0067-add-binary](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0067-add-binary/) | Easy |
+| [0338-counting-bits](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0338-counting-bits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0042-trapping-rain-water/) | Hard |
+| [0338-counting-bits](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0338-counting-bits/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
