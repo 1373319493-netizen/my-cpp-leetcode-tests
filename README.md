@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0042-trapping-rain-water/) | Hard |
 | [0704-binary-search](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0704-binary-search/) | Easy |
 | [0268-missing-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0268-missing-number/) | Easy |
+| [0260-single-number-iii](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0260-single-number-iii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@
 | [0268-missing-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0201-bitwise-and-of-numbers-range](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [0260-single-number-iii](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0260-single-number-iii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
