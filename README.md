@@ -23,6 +23,7 @@
 | [0231-power-of-two](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0231-power-of-two/) | Easy |
 | [0067-add-binary](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0371-sum-of-two-integers/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@
 | [0067-add-binary](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0067-add-binary/) | Easy |
 | [0338-counting-bits](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0338-counting-bits/) | Easy |
 | [0268-missing-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
