@@ -60,6 +60,7 @@
 | [0338-counting-bits](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0338-counting-bits/) | Easy |
 | [0268-missing-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0201-bitwise-and-of-numbers-range](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
