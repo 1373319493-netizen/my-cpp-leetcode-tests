@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0011-container-with-most-water/) | Medium |
 | [0136-single-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0136-single-number/) | Easy |
 | [0042-trapping-rain-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0042-trapping-rain-water/) | Hard |
+| [0704-binary-search](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +71,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0042-trapping-rain-water/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
