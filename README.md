@@ -14,6 +14,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [0027-remove-element](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0027-remove-element/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0283-move-zeroes](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@
 | [0042-trapping-rain-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0042-trapping-rain-water/) | Hard |
 | [0027-remove-element](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0027-remove-element/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0283-move-zeroes](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0283-move-zeroes/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
