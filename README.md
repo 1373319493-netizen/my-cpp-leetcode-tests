@@ -13,6 +13,7 @@
 | [0622-design-circular-queue](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0622-design-circular-queue/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [0027-remove-element](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0027-remove-element/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@
 | [0011-container-with-most-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0042-trapping-rain-water/) | Hard |
 | [0027-remove-element](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0027-remove-element/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
