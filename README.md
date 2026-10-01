@@ -11,6 +11,7 @@
 | [0268-missing-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0268-missing-number/) | Easy |
 | [0260-single-number-iii](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0260-single-number-iii/) | Medium |
 | [0622-design-circular-queue](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0622-design-circular-queue/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +103,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0622-design-circular-queue/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
