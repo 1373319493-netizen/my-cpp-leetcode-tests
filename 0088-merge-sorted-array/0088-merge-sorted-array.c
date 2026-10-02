@@ -10,9 +10,8 @@ void merge(int* nums1, int nums1Size, int m, int* nums2, int nums2Size, int n) {
             j--;
         }
     }
-    if(j>i){
-        for(int x=0;x<=j;x++){
+    for(int x=0;x<=j;x++){
             nums1[x]=nums2[x];
         }
-    }
+    
 }
