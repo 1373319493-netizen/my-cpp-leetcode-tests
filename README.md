@@ -16,6 +16,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0283-move-zeroes/) | Easy |
 | [0088-merge-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0189-rotate-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@
 | [0067-add-binary](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0189-rotate-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0189-rotate-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0283-move-zeroes/) | Easy |
 | [0088-merge-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0189-rotate-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
