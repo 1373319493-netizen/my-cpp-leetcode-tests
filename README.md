@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0283-move-zeroes/) | Easy |
 | [0088-merge-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0189-rotate-array/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
