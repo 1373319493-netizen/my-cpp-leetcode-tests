@@ -18,6 +18,7 @@
 | [0088-merge-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0189-rotate-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@
 | [0283-move-zeroes](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0283-move-zeroes/) | Easy |
 | [0088-merge-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0189-rotate-array/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +106,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0268-missing-number/) | Easy |
 | [0088-merge-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0088-merge-sorted-array/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
