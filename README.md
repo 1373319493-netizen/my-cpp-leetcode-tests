@@ -26,6 +26,7 @@
 | [0012-integer-to-roman](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0012-integer-to-roman/) | Medium |
 | [0268-missing-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0242-valid-anagram](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0242-valid-anagram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@
 | [0344-reverse-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0344-reverse-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0125-valid-palindrome/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0242-valid-anagram](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0242-valid-anagram/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@
 | [0268-missing-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0268-missing-number/) | Easy |
 | [0088-merge-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0088-merge-sorted-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0242-valid-anagram](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0242-valid-anagram/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
