@@ -25,6 +25,7 @@
 | [0001-two-sum](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0012-integer-to-roman/) | Medium |
 | [0268-missing-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0268-missing-number/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@
 | [0067-add-binary](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0067-add-binary/) | Easy |
 | [0344-reverse-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0344-reverse-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0125-valid-palindrome/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,8 +125,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0622-design-circular-queue/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
