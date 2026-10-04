@@ -42,6 +42,7 @@
 | [0012-integer-to-roman](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0012-integer-to-roman/) | Medium |
 | [0067-add-binary](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0067-add-binary/) | Easy |
 | [0344-reverse-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0344-reverse-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0125-valid-palindrome/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@
 | [0189-rotate-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0189-rotate-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0344-reverse-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0344-reverse-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0125-valid-palindrome/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
