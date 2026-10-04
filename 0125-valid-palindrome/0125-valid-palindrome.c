@@ -10,6 +10,7 @@ bool isPalindrome(char* s) {
             j++;
         }
     }
+    s[j] = '\0';
     for(int i=0;i<j/2;i++){
         if(s[i]!=s[j-i-1]){
             return false;
