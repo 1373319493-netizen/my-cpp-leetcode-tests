@@ -47,6 +47,7 @@
 | [0125-valid-palindrome](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0125-valid-palindrome/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0242-valid-anagram](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0242-valid-anagram/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@
 | [0905-sort-array-by-parity](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0344-reverse-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0344-reverse-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0125-valid-palindrome/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,4 +139,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
