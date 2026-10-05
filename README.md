@@ -50,6 +50,7 @@
 | [0242-valid-anagram](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0242-valid-anagram/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0014-longest-common-prefix](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0014-longest-common-prefix/) | Easy |
+| [0008-string-to-integer-atoi](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0008-string-to-integer-atoi/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
