@@ -21,6 +21,7 @@
 | [0905-sort-array-by-parity](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0014-longest-common-prefix](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0035-search-insert-position/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@
 | [0344-reverse-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0344-reverse-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0125-valid-palindrome/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@
 | [0088-merge-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0088-merge-sorted-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0242-valid-anagram](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0242-valid-anagram/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
