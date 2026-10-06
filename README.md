@@ -20,6 +20,7 @@
 | [0485-max-consecutive-ones](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0014-longest-common-prefix](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0014-longest-common-prefix/) | Easy |
+| [0035-search-insert-position](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0035-search-insert-position/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@
 | ------- | ------- |
 | [0704-binary-search](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0704-binary-search/) | Easy |
 | [0268-missing-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0268-missing-number/) | Easy |
+| [0035-search-insert-position](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0035-search-insert-position/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
