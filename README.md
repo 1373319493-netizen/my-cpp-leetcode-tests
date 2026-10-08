@@ -22,6 +22,7 @@
 | [0014-longest-common-prefix](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0035-search-insert-position/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0912-sort-an-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0912-sort-an-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0191-number-of-1-bits/) | Easy |
 | [0190-reverse-bits](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0190-reverse-bits/) | Easy |
+| [0912-sort-an-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0912-sort-an-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@
 | [0905-sort-array-by-parity](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0242-valid-anagram](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0912-sort-an-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0912-sort-an-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +170,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0014-longest-common-prefix/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
