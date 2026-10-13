@@ -75,6 +75,7 @@
 | [0125-valid-palindrome](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0125-valid-palindrome/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +136,7 @@
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0622-design-circular-queue/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
