@@ -137,6 +137,7 @@
 | [0622-design-circular-queue](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0622-design-circular-queue/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
