@@ -55,6 +55,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0014-longest-common-prefix](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0014-longest-common-prefix/) | Easy |
 | [0008-string-to-integer-atoi](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0005-longest-palindromic-substring/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0005-longest-palindromic-substring](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0005-longest-palindromic-substring/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +111,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0042-trapping-rain-water/) | Hard |
 | [0338-counting-bits](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0338-counting-bits/) | Easy |
+| [0005-longest-palindromic-substring](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0005-longest-palindromic-substring/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,4 +200,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0912-sort-an-array/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
