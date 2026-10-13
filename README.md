@@ -41,6 +41,7 @@
 | [0268-missing-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0189-rotate-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0189-rotate-array/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +134,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0622-design-circular-queue/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
