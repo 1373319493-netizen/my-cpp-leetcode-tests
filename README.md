@@ -103,6 +103,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0231-power-of-two/) | Easy |
+| [0206-reverse-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0206-reverse-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0206-reverse-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0206-reverse-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
