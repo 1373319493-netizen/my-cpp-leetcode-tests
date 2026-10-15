@@ -80,6 +80,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0005-longest-palindromic-substring](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0141-linked-list-cycle](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0141-linked-list-cycle/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@
 | [0231-power-of-two](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0231-power-of-two/) | Easy |
 | [0206-reverse-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0206-reverse-linked-list/) | Easy |
 | [0021-merge-two-sorted-lists](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +121,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0042-trapping-rain-water/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +151,7 @@
 | [0206-reverse-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0206-reverse-linked-list/) | Easy |
 | [0021-merge-two-sorted-lists](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0141-linked-list-cycle/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
