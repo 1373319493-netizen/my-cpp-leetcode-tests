@@ -31,6 +31,7 @@
 | [0268-missing-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0242-valid-anagram](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0242-valid-anagram/) | Easy |
+| [0141-linked-list-cycle](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0141-linked-list-cycle/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0005-longest-palindromic-substring](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0141-linked-list-cycle](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0141-linked-list-cycle/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +147,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0206-reverse-linked-list/) | Easy |
 | [0021-merge-two-sorted-lists](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0141-linked-list-cycle/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,4 +209,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
