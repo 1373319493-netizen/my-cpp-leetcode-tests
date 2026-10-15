@@ -106,6 +106,7 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0231-power-of-two/) | Easy |
 | [0206-reverse-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0206-reverse-linked-list/) | Easy |
+| [0021-merge-two-sorted-lists](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +144,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0206-reverse-linked-list/) | Easy |
+| [0021-merge-two-sorted-lists](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
