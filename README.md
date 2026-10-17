@@ -159,10 +159,12 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0707-design-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0707-design-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0622-design-circular-queue/) | Medium |
+| [0707-design-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0707-design-linked-list/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
