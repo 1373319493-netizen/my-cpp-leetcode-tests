@@ -107,6 +107,7 @@
 | [0371-sum-of-two-integers](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0201-bitwise-and-of-numbers-range](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0260-single-number-iii](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0260-single-number-iii/) | Medium |
+| [0461-hamming-distance](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0461-hamming-distance/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
