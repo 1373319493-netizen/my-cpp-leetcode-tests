@@ -23,6 +23,7 @@
 | [0035-search-insert-position](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0035-search-insert-position/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0912-sort-an-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0912-sort-an-array/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@
 | [0704-binary-search](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0704-binary-search/) | Easy |
 | [0268-missing-number](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0268-missing-number/) | Easy |
 | [0035-search-insert-position](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0035-search-insert-position/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
