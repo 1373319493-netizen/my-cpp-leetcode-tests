@@ -58,6 +58,7 @@
 | [0014-longest-common-prefix](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0014-longest-common-prefix/) | Easy |
 | [0008-string-to-integer-atoi](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0020-valid-parentheses](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0020-valid-parentheses/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0042-trapping-rain-water/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0020-valid-parentheses](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0020-valid-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,4 +229,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0141-linked-list-cycle/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
