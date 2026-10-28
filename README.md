@@ -24,6 +24,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0912-sort-an-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0912-sort-an-array/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0015-3sum](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0015-3sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@
 | [0234-palindrome-linked-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0015-3sum](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0015-3sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@
 | [0242-valid-anagram](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0912-sort-an-array](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0912-sort-an-array/) | Medium |
+| [0015-3sum](https://github.com/1373319493-netizen/my-cpp-leetcode-tests/tree/main/0015-3sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
